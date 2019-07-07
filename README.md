@@ -15,7 +15,10 @@ License [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 # Getting Started
 
-1. Clone the presentation with `git clone --recursive https://github.com/francisco-core/presentation-iot`
+1. Either clone the presentation with `git clone --recursive https://github.com/francisco-core/presentation-iot` or click on the "Download ZIP" button:
+
+![](images/download-zip.png)
+
 2. open `index.html` in the browser and there your go.
 
 You can use the arrows to move around the slides
