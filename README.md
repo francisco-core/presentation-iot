@@ -25,7 +25,7 @@ You can use the arrows to move around the slides
 
 # Contribute
 
-If you wish to contribute to this presentation, please feel free to fork it and do a pull request
+This presentation **is highly incomplete**. If you wish to contribute to this presentation, please feel free to fork it and do a pull request
 
 # Thanks
 
