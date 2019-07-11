@@ -31,6 +31,16 @@ Source: https://threatpost.com/amazon-admits-alexa-voice-recordings-saved-indefi
 
 ---
 
+<!-- .slide: data-background-iframe="https://www.vrt.be/vrtnws/en/2019/07/10/google-employees-are-eavesdropping-even-in-flemish-living-rooms/" data-background-interactive -->
+
+note:
+
+Let's watch a 12 minute video describing the scandal of google
+recording private conversations and them being listened to by
+employees.
+
+---
+
 # TODO
 
 Many more slides and their naration in the presenter's notes
@@ -38,3 +48,13 @@ Many more slides and their naration in the presenter's notes
 ---
 
 # what can we do?
+
+The easiest of all is just to say **no** to these devices.
+
+---
+
+But for those who are not willing:
+
+https://github.com/bjoernkarmann/project_alias
+
+---
